@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Dermstore SITE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Code
+### majestic-vest-8576
+
+## About Project
+Dermstore is a skin care and beauty e-commerce site in the United States. Since December 2020, it is a subsidiary of The Hut Group which is a British e-commerce company.
 
 ## Available Scripts
 
