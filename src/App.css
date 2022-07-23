@@ -1,6 +1,22 @@
 .App {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
 }
+
+.items {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.circlularButton {
+  background: transparent;
+  border: none;
+  background: coral;
+  border-radius: 50%;
+}
+
 
 .App-logo {
   height: 40vmin;
