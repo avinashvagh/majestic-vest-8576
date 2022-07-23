@@ -1,0 +1,442 @@
+{
+	"usersInfo": [
+		{
+			"fullName": "Mohd Rihan Khan",
+			"email": "rihan807757@gmail.com",
+			"confirmEmail": "rihan807757@gmail.com",
+			"password": "12345",
+			"confirmPassword": "12345",
+			"mobile": "08588963095",
+			"referralCode": "23456",
+			"reward": true,
+			"id": 1
+		},
+		{
+			"fullName": "Mohd Rihan Khan",
+			"email": "rihan807757@gmail.com",
+			"confirmEmail": "rihan807757@gmail.com",
+			"password": "12345",
+			"confirmPassword": "12345",
+			"mobile": "08588963095",
+			"referralCode": "12321",
+			"reward": true,
+			"id": 2
+		},
+		{
+			"fullName": "akash",
+			"email": "A@a.com",
+			"confirmEmail": "A@a.com",
+			"password": "123",
+			"confirmPassword": "123",
+			"mobile": "1234567890",
+			"referralCode": "000",
+			"reward": true,
+			"id": 3
+		},
+		{
+			"fullName": "Mohd Rihan Khan",
+			"email": "mhd.khan.rihan@gmail.com",
+			"confirmEmail": "mhd.khan.rihan@gmail.com",
+			"password": "12345",
+			"confirmPassword": "12345",
+			"mobile": "08588963095",
+			"referralCode": "43564",
+			"reward": true,
+			"id": 4
+		},
+		{
+			"fullName": "Mohd Rihan Khan",
+			"email": "mhd.khan.rihan@gmail.com",
+			"confirmEmail": "rihan807757@gmail.com",
+			"password": "123",
+			"confirmPassword": "123",
+			"mobile": "08588963095",
+			"referralCode": "34345",
+			"reward": true,
+			"id": 5
+		},
+		{
+			"fullName": "ghi",
+			"email": "a@a.com",
+			"confirmEmail": "a@a.com",
+			"password": "123",
+			"confirmPassword": "123",
+			"mobile": "3243535",
+			"referralCode": "",
+			"reward": true,
+			"id": 6
+		}
+	],
+	"data": [
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/1600/1600/12243902-8124781058727443.jpg",
+			"title": "Perricone MD No Makeup Lipstick (0.15 oz.)",
+			"rating": "4",
+			"price": "30.00",
+			"brand": "Perricone MD",
+			"quantity": 1,
+			"id": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905829-1844869965787699.jpg",
+			"title": "Glo Skin Beauty Multi-Stick (0.15 oz.)",
+			"rating": "54",
+			"price": "34.00",
+			"brand": "Glo Skin Beauty",
+			"quantity": 1,
+			"id": 2
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/11912320-2364867944542022.jpg",
+			"title": " Estée Lauder Lipstick (0.12 oz.)",
+			"rating": "6",
+			"price": "28.00",
+			"brand": "Estée Lauder",
+			"quantity": 1,
+			"id": 3
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/11912320-2364867944542022.jpg",
+			"title": "Smashbox Always On Cream to Matte Lipstick (0.7 oz.)",
+			"rating": "8",
+			"price": "26.00",
+			"brand": "Smashbox",
+			"quantity": 1,
+			"id": 4
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/11912430-2134866374234781.jpg",
+			"title": "Vapour Beauty Suede Matte Crayon (0.1 oz.)",
+			"rating": "20",
+			"price": "26.00",
+			"brand": "Vapour Beauty",
+			"quantity": 1,
+			"id": 5
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905844-1244869959167071.jpg",
+			"title": "Illamasqua Antimatter Lipstick 4.15 g.",
+			"rating": "17",
+			"price": "22.00",
+			"brand": "Illamasqua",
+			"quantity": 1,
+			"id": 6
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12031833-7534872012369537.jpg",
+			"title": "jane iredale Triple Luxe Long Lasting Naturally Moist Lipstick (1.13 oz.)",
+			"rating": "19",
+			"price": "35.00",
+			"brand": "jane iredale",
+			"quantity": 1,
+			"id": 7
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905932-2004871282960154.jpg",
+			"title": "Estée Lauder High Voltage Lipstick (0.14 oz.)",
+			"rating": "3",
+			"price": "30.00",
+			"brand": "Estée Lauder",
+			"quantity": 1,
+			"id": 8
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905844-1244869959167071.jpg",
+			"title": "ILIA Color Block High Impact Lipstick (0.14 oz.)",
+			"rating": "7",
+			"price": "28.00",
+			"brand": "ILIA",
+			"quantity": 1,
+			"id": 9
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905931-1964871282924541.jpg",
+			"title": "Vapour Beauty Lip Nectar (0.12 oz.)",
+			"rating": "2",
+			"price": "22.40",
+			"brand": "Vapour Beauty",
+			"quantity": 1,
+			"id": 10
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12903067-9664871783969622.jpg",
+			"title": "Kjaer Weis Lipstick Refill - Calm (0.15 fl. oz.)",
+			"rating": "27",
+			"price": "30.00",
+			"brand": "Kjaer Weis",
+			"quantity": 1,
+			"id": 11
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905466-1254897222864398.jpg",
+			"title": "Stila Cosmetics Convertible Color (0.15 oz.)",
+			"rating": "125",
+			"price": "25",
+			"brand": "Stila",
+			"quantity": 1,
+			"id": 12
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12356162-3624866382787691.jpg",
+			"title": "Kevyn Aucoin Unforgettable Lipstick",
+			"rating": "9",
+			"price": "30.00",
+			"brand": "Kevyn Aucoin",
+			"quantity": 1,
+			"id": 13
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12903066-1024871783929737.jpg",
+			"title": "Kjaer Weis Lipstick Refill - Sincere (0.15 fl. oz.)",
+			"rating": "43",
+			"price": "30.00",
+			"brand": "Kjaer Weis",
+			"quantity": 1,
+			"id": 14
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/11493615-1564871517358554.jpg",
+			"title": "jane iredale Just Kissed Lip and Cheek Stain (0.1 oz.)",
+			"rating": "193",
+			"price": "32",
+			"brand": "jane iredale",
+			"quantity": 1,
+			"id": 15
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12903065-1344871783884413.jpg",
+			"title": "Kjaer Weis Lipstick Refill - Thoughtful (0.15 fl. oz.)",
+			"rating": "87",
+			"price": "30",
+			"brand": "Kjaer Weis",
+			"quantity": 1,
+			"id": 16
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905820-1214869958931814.jpg",
+			"title": "Glo Skin Beauty Color Haze Multi-Matte Pigment (0.23 fl. oz.)",
+			"rating": "23",
+			"price": "32.00",
+			"brand": "Glo Skin Beauty",
+			"quantity": 1,
+			"id": 17
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12903103-1574871308018740.jpg",
+			"title": "Supergoop!® Lipscreen SPF 40 0.34 fl. oz.",
+			"rating": "4",
+			"price": "32.00",
+			"brand": "Supergoop!",
+			"quantity": 1,
+			"id": 18
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905498-1434871073865362.jpg",
+			"title": "Kjaer Weis Cocoa Butter Semi-Matte Lipstick (0.15 ",
+			"rating": "3",
+			"price": "28.00",
+			"brand": "Kjaer Weis",
+			"quantity": 1,
+			"id": 19
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/13126312-1294866371539773.jpg",
+			"title": "Estée Lauder Aura Multi Stick 8.5 g.",
+			"rating": "1",
+			"price": "36.00",
+			"brand": "Estée Lauder",
+			"quantity": 1,
+			"id": 20
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12023959-1294934822724222.jpg",
+			"title": "By Terry Lip-Expert Matte (0.1 oz.)",
+			"rating": "2",
+			"price": "34.00",
+			"brand": "By Terry",
+			"quantity": 1,
+			"id": 21
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905944-6934864354940721.jpg",
+			"title": "Kjaer Weis Lipstick (0.15 fl. oz.)",
+			"rating": "7",
+			"price": "48.00",
+			"brand": "Kjaer Weis",
+			"quantity": 1,
+			"id": 22
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/11141180-7234918736361510.jpg",
+			"title": "Estée Lauder Pure Color Envy Sculpting Lipstick (0.12 oz.)",
+			"rating": "20",
+			"price": "24.00",
+			"brand": "Estée Lauder",
+			"quantity": 1,
+			"id": 23
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12873595-1434871029718082.jpg",
+			"title": "Smashbox Be Legendary Prime Plush Lipstick 0.14 oz.",
+			"rating": "1",
+			"price": "24",
+			"brand": "Smashbox",
+			"quantity": 1,
+			"id": 24
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905677-1684864789796271.jpg",
+			"title": "RMS Beauty Daily Lip Balm (0.1 oz.)",
+			"rating": "11",
+			"price": "20.00",
+			"brand": "RMS Beauty",
+			"quantity": 1,
+			"id": 25
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/13166468-1794873821566457.jpg",
+			"title": "ILIA Balmy Tint Hydrating Lip Balm 0.15 oz.",
+			"rating": "5",
+			"price": "28.00",
+			"brand": "ILIA",
+			"quantity": 1,
+			"id": 26
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp/productimg/1600/1600/11592813-1584528670670285.jpg",
+			"title": "RMS Beauty Wild with Desire Lipstick 22.67g (Various Shades)",
+			"rating": "89",
+			"price": "28.00",
+			"brand": "RMS Beauty",
+			"quantity": 1,
+			"id": 27
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12023976-2134934822796438.jpg",
+			"title": "BY TERRY Lip-Expert Shine 0.1 oz.",
+			"rating": "23",
+			"price": "27.00",
+			"brand": "By Terry",
+			"quantity": 1,
+			"id": 28
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905390-6814871073807561.jpg",
+			"title": "Jouer Cosmetics Fruit Pigmented Pomegranate Oil Anti-Aging Lipstick (0.15 oz.)",
+			"rating": "27",
+			"price": "46.00",
+			"brand": "Jouer Cosmetics",
+			"quantity": 1,
+			"id": 29
+		}
+	],
+	"Cart": [
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/1600/1600/12243902-8124781058727443.jpg",
+			"title": "Perricone MD No Makeup Lipstick (0.15 oz.)",
+			"rating": "4",
+			"price": "30.00",
+			"brand": "Perricone MD",
+			"id": 7,
+			"quantity": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905829-1844869965787699.jpg",
+			"title": "Glo Skin Beauty Multi-Stick (0.15 oz.)",
+			"rating": "54",
+			"price": "34.00",
+			"brand": "Glo Skin Beauty",
+			"id": 8,
+			"quantity": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/1600/1600/12243902-8124781058727443.jpg",
+			"title": "Perricone MD No Makeup Lipstick (0.15 oz.)",
+			"rating": "4",
+			"price": "30.00",
+			"brand": "Perricone MD",
+			"id": 9,
+			"quantity": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905829-1844869965787699.jpg",
+			"title": "ILIA Multi-Stick (0.15 oz.)",
+			"rating": "54",
+			"price": "34.00",
+			"id": 1,
+			"quantity": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/1600/1600/12243902-8124781058727443.jpg",
+			"title": "Perricone MD No Makeup Lipstick (0.15 oz.)",
+			"rating": "4",
+			"price": "30.00",
+			"brand": "Perricone MD",
+			"id": 10,
+			"quantity": 1
+		}
+	],
+	"wishlist": [
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905829-1844869965787699.jpg",
+			"title": "ILIA Multi-Stick (0.15 oz.)",
+			"rating": "54",
+			"price": "34.00",
+			"id": 1,
+			"quantity": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/11912320-2364867944542022.jpg",
+			"title": "Glo Skin Beauty Lipstick (0.12 oz.)",
+			"rating": "6",
+			"price": "28.00",
+			"id": 2,
+			"quantity": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/1600/1600/12243902-8124781058727443.jpg",
+			"title": "Perricone MD No Makeup Lipstick (0.15 oz.)",
+			"rating": "4",
+			"price": "30.00",
+			"brand": "Perricone MD",
+			"id": 12,
+			"quantity": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/1600/1600/12243902-8124781058727443.jpg",
+			"title": "Perricone MD No Makeup Lipstick (0.15 oz.)",
+			"rating": "4",
+			"price": "30.00",
+			"brand": "Perricone MD",
+			"id": 13,
+			"quantity": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/11912320-2364867944542022.jpg",
+			"title": " Estée Lauder Lipstick (0.12 oz.)",
+			"rating": "6",
+			"price": "28.00",
+			"brand": "Estée Lauder",
+			"id": 14,
+			"quantity": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/12905844-1244869959167071.jpg",
+			"title": "ILIA Color Block High Impact Lipstick (0.14 oz.)",
+			"rating": "7",
+			"price": "28.00",
+			"brand": "ILIA",
+			"id": 15,
+			"quantity": 1
+		},
+		{
+			"img": "https://static.thcdn.com/images/small/webp//productimg/original/11912320-2364867944542022.jpg",
+			"title": " Estée Lauder Lipstick (0.12 oz.)",
+			"rating": "6",
+			"price": "28.00",
+			"brand": "Estée Lauder",
+			"id": 16,
+			"quantity": 1
+		}
+	]
+}
